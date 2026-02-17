@@ -8,4 +8,4 @@ def concat(str1: str, str2: str) -> str:
     """
     Also Merge These Stuff
     """
-    return "{}{}".format(str1,str2)
+    return "{}{}".format(str1, str2)
