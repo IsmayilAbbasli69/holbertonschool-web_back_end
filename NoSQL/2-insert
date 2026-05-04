@@ -1,0 +1,6 @@
+// NoSQL
+db.school.insert(
+	{
+		name: 'Holberton school'
+	}
+)

@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""This is about annotation"""
-import math
+"""2-floor.py"""
 
 
 def floor(n: float) -> int:
-    """The Floor Function"""
-    return math.floor(n)
+    """Returns the floor of a float"""
+    return int(n)

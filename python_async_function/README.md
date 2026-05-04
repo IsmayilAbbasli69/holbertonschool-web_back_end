@@ -1,1 +1,1 @@
-FUCK PYTHON
+Python - Async

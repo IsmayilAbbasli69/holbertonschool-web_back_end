@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-"""
-Merge these stuff
-"""
+"""1-concat.py"""
 
 
 def concat(str1: str, str2: str) -> str:
-    """
-    Also Merge These Stuff
-    """
-    return "{}{}".format(str1, str2)
+    """Returns a concatenated string"""
+    return str1 + str2

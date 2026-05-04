@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
-"""
-Trying do to domething
-"""
+"""0-add.py"""
 
 
 def add(a: float, b: float) -> float:
-
-    """
-    SUM IT
-    """
-
+    """Returns the sum of a,b"""
     return a + b

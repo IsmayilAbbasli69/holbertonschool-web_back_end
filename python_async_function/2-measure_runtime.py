@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""function for python """
+"""function"""
 import time
 import asyncio
 

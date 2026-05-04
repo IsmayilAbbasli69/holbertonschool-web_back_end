@@ -1,0 +1,2 @@
+// NoSQL
+db.school.find()
